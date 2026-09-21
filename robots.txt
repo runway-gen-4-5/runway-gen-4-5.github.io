@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://runway-gen-4-5.github.io/sitemap.xml
