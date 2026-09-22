@@ -20,4 +20,5 @@ Gen-4.5 is for people already paying for a Runway Standard plan or higher who wa
 
 *This is an independent page about a third-party product, with no affiliation to or endorsement from Runway or Adobe; all trademarks belong to their respective owners.*
 
+
 _Last reviewed: 2026-09-22_
